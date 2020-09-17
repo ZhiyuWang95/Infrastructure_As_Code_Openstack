@@ -1,0 +1,9 @@
+---
+### This playbook import openstack role
+
+- name: "Deploy openstack on ubuntu 16 LTS"
+  hosts: servers
+  tasks:
+    - name: "import openstack role"
+      import_role:
+        name: openstack
