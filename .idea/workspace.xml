@@ -28,8 +28,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc0f9cbe-b5c7-437c-9919-4f5e0502085c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/roles/openstack/tasks/setup.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/site.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roles/openstack/tasks/setup.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/roles/openstack/tasks/setup.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600305978807</updated>
-      <workItem from="1600305980734" duration="1040000" />
+      <workItem from="1600305980734" duration="2213000" />
     </task>
     <servers />
   </component>

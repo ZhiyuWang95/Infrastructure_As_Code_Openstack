@@ -1,2 +1,12 @@
 ---
-- name: Download required packages
+- name: Update apt-get repo and cache
+  task:
+    apt:
+      update_cache=yes
+      force_apt_get=yes
+
+- name: Upgrade all apt packages
+  task:
+    apt:
+      upgrade=dist
+      force_apt_get=yes
